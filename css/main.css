@@ -618,3 +618,8 @@
       color: white;
       font-family: "Poppins", serif;
      }
+
+    .logo__ticket {
+      margin-top: 20px;
+      height: 70px;
+     }
