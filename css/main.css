@@ -234,7 +234,11 @@
    .guest__title {
     font-size: 20px;
    }
-   
+       
+    .guest {
+    transform: scale(0.9)
+   }
+       
    }
 
     /* CARDS*/ 
@@ -421,11 +425,11 @@
     }
   
     .card {
-      transform: scale(0.8);
+      transform: scale(0.9);
       margin-bottom: 1rem;
     }
     .cards .card.active {
-      transform: scale(0.8);
+      transform: scale(0.9);
     }
   }
   
@@ -441,7 +445,7 @@
       margin-bottom: 1rem;
     }
     .cards .card.active {
-      transform: scale(1);
+      transform: scale(0.9);
     }
   }
   
@@ -454,7 +458,7 @@
       margin-bottom: 1rem;
     }
     .cards .card.active {
-      transform: scale(1);
+      transform: scale(0.9);
     }
   }
   @media (min-width: 414px) and (max-width: 768px) {
@@ -463,7 +467,7 @@
       
     }
     .cards .card.active {
-      transform: scale(1);
+      transform: scale(0.9);
     }
   }
   @media (min-width: 768px) and (max-width: 1046px) {
@@ -475,7 +479,7 @@
       
     }
     .cards .card.active {
-      transform: scale(1);
+      transform: scale(0.9);
     }
   }
   
