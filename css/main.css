@@ -121,12 +121,6 @@
     color: var(--main-color);
     border: 3px solid transparent;
  }
- 
- .btn:hover{
-    background: transparent;
-    border: 3px solid var(--red-color);
-    color: var(--text-color);
- }
 
 
    /* GENERAL */
